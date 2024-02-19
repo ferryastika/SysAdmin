@@ -8,6 +8,7 @@ Repository untuk Matkul Workshop Administrasi Jaringan
      * / : 20 GB
      * /storage : 5 GB
      * swap : 1,5 GB
+   - Hostname : SysAdmin-NRP
 2) Buat ringkasan tentang perbedaan dari Debian 12 (bookworm) dengan Debian 11 (bullseye) : versi kernel, kebutuhan sistem, penerapan systemd dan perbedaan packagenya (dalam bentuk tabel) !
 3) Jelaskan fungsi dari file "/etc/groups" beserta formatnya!
 4) Jelaskan perbedaan penggunaan perintah "su" dengan "su -"!
