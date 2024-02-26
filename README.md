@@ -14,4 +14,8 @@ Repository untuk Matkul Workshop Administrasi Jaringan
 4) Jelaskan perbedaan penggunaan perintah "su" dengan "su -"!
 5) Jelaskan fungsi dari "sudo" !
 6) Jelaskan langkah-langkah penambahan user anda sebagai user sudo ! Gunakan perintah "su -" lalu setelah masuk sebagai root, jalankan perintah "visudo". Tambahkan user anda di bawah user root pada bagian " # User privilege specification"
-## 
+
+---
+##Tugas 2
+1) Tulis kembali dalam bahasa Indonesia dengan gaya tulisanmu sendiri tentang standar struktur direktori dari Debian (Gunakan referensi https://www.debianadmin.com/linux-directory-structure-overview.html)! Gambarkan struktur direktori dari hasil instalasimu ! (gambar bisa menggunakan Miro, draw.io atau lainnya)
+2) Buat slide dalam bahasa Indonesia dengan gaya bahasamu sendiri tentang dasar system administrasi ! Gunakan referensi buku : Debian12- SysAdmmin.pdf) ! Akan lebih baik apabila anda menggunakan MARP!
