@@ -26,3 +26,10 @@ Repository untuk Matkul Workshop Administrasi Jaringan
    <li>Tulis kembali dalam bahasa Indonesia dengan gaya tulisanmu sendiri tentang standar struktur direktori dari Debian (Gunakan referensi https://www.debianadmin.com/linux-directory-structure-overview.html)! Gambarkan struktur direktori dari hasil instalasimu ! (gambar bisa menggunakan Miro, draw.io atau lainnya)
 <li> Buat slide dalam bahasa Indonesia dengan gaya bahasamu sendiri tentang dasar system administrasi ! Gunakan referensi buku : Debian12- SysAdmmin.pdf) ! Akan lebih baik apabila anda menggunakan MARP!
 </ul>
+
+
+<h2>Tugas 3</h2>
+<ul>
+   <li> Tugas Baca tentang Ekosistem Internet (Materi sudah diunggah di Ethol). Tuliskan pendapatmu tentang bagaimana Internet bekerja (tugas pribadi)!
+   <li> Ikuti langkah-langkah instalasi DNS server dengan menggunakan aplikasi BIND9 pada Debian 12 anda [BIND9-debian-wiki](https://wiki.debian.org/Bind9#Debian_Bookworm)
+</ul>
